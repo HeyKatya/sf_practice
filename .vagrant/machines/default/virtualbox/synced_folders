@@ -1,0 +1,1 @@
+{"rsync":{"/home/vagrant":{"type":"rsync","rsync__exclude":"Vagrantfile","guestpath":"/home/vagrant","hostpath":"/Users/ekaterinaveselova/vag10","disabled":false,"__vagrantfile":true,"exclude":"Vagrantfile","owner":"vagrant","group":"vagrant"}}}
